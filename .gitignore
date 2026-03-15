@@ -19,3 +19,7 @@ build/
 *.swp
 *.swo
 .DS_Store
+
+# Pipeline data
+pipeline/data/raw/*.parquet
+pipeline/data/*.duckdb
